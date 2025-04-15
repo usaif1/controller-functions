@@ -15,7 +15,10 @@
   "main": "index.js",
   "dependencies": {
     "firebase-admin": "^12.6.0",
-    "firebase-functions": "^6.0.1"
+    "firebase-functions": "^6.0.1",
+    "flespi-io-js": "github:flespi-software/flespi-io-js",
+    "json-rpc-2.0": "^1.7.0",
+    "ws": "^8.18.1"
   },
   "devDependencies": {
     "firebase-functions-test": "^3.1.0",

@@ -41,6 +41,8 @@ const flespiMethods = [
     "http.gw.devices.messages.get",
     "http.gw.devices.logs.get",
     "http.gw.devices.telemetry.get",
+    "http.gw.devices.settings.put",
+    "http.gw.devices.settings.post",
 ]; // Add more as needed
 
 flespiMethods.forEach((method) => {
